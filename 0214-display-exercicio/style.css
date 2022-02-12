@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin: 80px;
+}
+
+h1 {
+    color: #111;
+    text-align: center;
+    margin: 20px ;
+}
+
+.item {
+    background: #111;
+    border-radius: 4px;
+    margin: 20px;
+    padding: 30px;
+    color: #fff;
+}
+
+p {
+    color: #b2b2b2;
+    margin: 15px 0;
+}
+
+span {
+    color: #febe01;
+}
+
+a {
+    color: #332200;
+    background: #febe01;
+    border-radius: 4px;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a:hover {
+    filter: brightness(90%);
+}
